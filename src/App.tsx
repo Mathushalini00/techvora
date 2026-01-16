@@ -1,4 +1,3 @@
-import React from "react";
 import Layout from "./app/layout";
 import HeroPage from "./templates/home/Hero";
 import Expertise from "./templates/home/Expertise";

@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  FaPlay,
+
   FaArrowRight,
   FaCode,
   FaServer,

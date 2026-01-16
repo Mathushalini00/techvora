@@ -1,4 +1,4 @@
-import React from "react";
+
 import { IoDiamondOutline } from "react-icons/io5";
 import {
   FaGithub,

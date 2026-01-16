@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { IoDiamondOutline, IoMenu, IoClose } from "react-icons/io5";
+import { useState } from "react";
+import {  IoMenu, IoClose } from "react-icons/io5";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
